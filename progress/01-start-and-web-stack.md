@@ -31,15 +31,14 @@
 
 В проекте используются:
 
-Ubuntu;
-nginx;
-Gunicorn;
-Flask;
-Python virtual environment;
-systemd.
+- Ubuntu;
+- nginx;
+- Gunicorn;
+- Flask;
+- Python virtual environment;
+- systemd.
 
-
-## Что я поняла про компоненты
+-- Что я поняла про компоненты--
 
 Я разобралась в их основном назначении:
 
