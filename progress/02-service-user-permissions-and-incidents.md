@@ -19,3 +19,11 @@
 
 ```text
 mrpopo
+```
+Его параметры:
+```text
+shell: /usr/sbin/nologin
+home: /opt/flightsim
+group: mrpopo
+sudo: отсутствует
+```
